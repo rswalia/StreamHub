@@ -58,10 +58,6 @@ We will review your pull request and work with you to merge it into the main bra
 
 StreamHub is open-source software released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this project as per the terms of the license.
 
-## Acknowledgments
-
-We would like to thank all the contributors and developers who have contributed to this project, making it better with each update.
-
 ---
 
 Thank you for choosing StreamHub! We hope you enjoy using our platform for streaming videos on demand. If you have any questions or need assistance, feel free to reach out to us.
